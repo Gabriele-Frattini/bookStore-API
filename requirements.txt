@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pymongo[snappy,gssapi,srv,tls]
+requests
+mongoengine
+asyncio
+bs4
+jinja2
